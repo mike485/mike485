@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Knox</h1>
-<h3 align="center">A passionate GCP Network Engineer, Tampa, FL</h3>
+<h3 align="center">Google Cloud Platform (GCP) networking</h3>
 
 - 📫 How to reach me **michaelgknox@gmail.com**
 
